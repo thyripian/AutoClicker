@@ -1,5 +1,5 @@
 # AutoClicker
-python script for automated left mouse clicks
+Python script for automated left mouse clicks at a set (customizable) interval.
 
 
 # Usage:
