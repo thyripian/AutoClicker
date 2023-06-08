@@ -21,7 +21,7 @@ class ClickMouse(threading.Thread):
        	    if self.clicking:
                 self.mouse.click(Button.left, 1)
                 print('AutoClicker is clicking.')
-                time.sleep(0.05) # pause for 0.5 seconds
+                time.sleep(0.05) # set to # of seconds between clicks
 
     def stop_clicking(self):
         self.running = False
