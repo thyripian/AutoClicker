@@ -1,3 +1,8 @@
+__author__ = "Kevan White ('thyripian')"
+__copyright__ = "Copyright (C) 2023 Kevan White ('thyripian')"
+__license__ = "MIT License"
+__version__ = "1.0"
+
 from pynput.mouse import Button, Controller as MouseController
 from pynput.keyboard import Key, Listener
 import time
